@@ -2,6 +2,7 @@ body{
   font-family: Verdana;
   background-color: black;
   text-align: center;
+  color: white;
 }
 h1{
   font-size: 50px;
@@ -10,9 +11,30 @@ h1{
 
 }
 
+h2{
+  font-weight: 300;
+  font-size: 42px;
+
+}
+
 h6{
   color:aquamarine;
   font-size: 16px;
   text-decoration: underline;
+  font-weight: normal;
+}
+
+p{
+  font-size: 21px;
+  color: grey;
+}
+
+.bottom{
+  padding-top: 20px;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
   font-weight: normal;
 }
